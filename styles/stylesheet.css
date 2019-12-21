@@ -140,10 +140,7 @@ blockquote {
 		padding: 0;
 		border-bottom: 0;
 	}
-	
-.grid-container div {
-  border: 1px solid red;
-}
+
 .grid-container {
   display: grid;
   grid-column-gap: 20px;
